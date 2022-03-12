@@ -1,0 +1,39 @@
+{
+  "owner": {
+    "username": "shik-tan",
+    "email": "kihsnat@gmail.com",
+  }
+}
+{
+  "record": {
+    "CNAME": "kihs-nat.io"
+  }
+}
+{
+  "record": {
+    "A": [
+      "8.158.117.124",
+      "127.168.7.82",
+      "175.220.130.10",
+      "217.91.240.30"
+    ]
+  }
+}
+{
+  "record": {
+    "URL": "https://deracs.io"
+  }
+}
+{
+  "record": {
+    "MX": [
+      "mx1.deracs.io",
+      "mx2.deracs.io"
+    ]
+  }
+}
+{
+  "record": {
+    "TXT": "zoepatada"
+  }
+}
